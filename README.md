@@ -1,4 +1,4 @@
-# tech-notes
+# ReadMe
 A collection of notes and links from a strategic-thinking technologist with a poor memory!
 
 ## Contents
