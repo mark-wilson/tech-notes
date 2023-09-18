@@ -2,12 +2,12 @@
 A collection of notes and links from a strategic-thinking technologist with a poor memory!
 
 ## Contents
-1. [About tech-notes]
-2. [Cloud Transformation]
-3. [Business Transformation]
-4. [Digital Transformation]
-5. [AI Transformation]
-6. [Other Stuff]
+1. [About tech-notes](tech-notes.md)
+2. [Cloud Transformation](cloud-tx.md)
+3. [Business Transformation](business-tx.md)
+4. [Digital Transformation](digital-tx.md)
+5. [AI Transformation](ai-tx.md)
+6. [Other Stuff](uncategorised.md)
 
 ## Contact
 I can be found in the following locations:
