@@ -1,6 +1,6 @@
-title: [Tech Notes]
+title: [Mark's Tech Notes]
 description: [Some things I've found during my work as a strategic-thinking technologist]
-# show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+show_downloads: [true]
 # google_analytics: [Your Google Analytics tracking ID]
 
 remote_theme: pages-themes/minimal@v0.2.0
