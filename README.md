@@ -1,5 +1,5 @@
 # ReadMe
-A collection of notes and links from a strategic-thinking technologist with a poor memory!
+This is the start of this collection of thoughts. Tug on a thread from the contents below...
 
 ## Contents
 1. [About tech-notes](tech-notes.md)
