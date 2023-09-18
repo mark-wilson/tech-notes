@@ -7,3 +7,5 @@ But here’s another example. When I was held up in the neighbouring county by s
 
 [1]: <https://www.markwilson.co.uk/blog/2019/12/digital-transformation-its-not-about-the-technology.htm>
 [2]: <https://www.markwilson.co.uk/blog/2011/08/the-theory-of-disruptive-innovation-from-the-innovators-dilemma.htm>
+
+[Go home](README.md)
