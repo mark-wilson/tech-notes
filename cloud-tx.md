@@ -33,4 +33,77 @@ I asked a question of two people I respect a lot in this industry - Chris Weston
 > 
 > Matt: interestingly as well, one of the clients I’ve been working with recently - they work in the financial services industry - and they produce software for banks that need to be installed because of security into banks' data centres and it’s really interesting how the skill of developing software to be distributed for installation into a behind firewall data centre is an extremely rare skill - these days people don’t know how to do it anymore. They know how to build a build for cloud, they know how to build a build for app stores. They maybe know how to be able to build to be able to distribute in containerised cloud things which can be implemented into private clouds for the idea of what was the exe installer for server software. There's very few people who know how to do that anymore because nobody does it anymore and that’s been a really interesting revelation for me at just quite how much things have moved on."
 
+## Competition in cloud services
+In 2022, the UK's communications regulator, Ofcom, stated its intention to carry out a [market study into the supply of cloud services in the UK](https://www.ofcom.org.uk/consultations-and-statements/category-2/cloud-services-market-study) to explore if these markets are working well and whether any regulatory action is required. [The final report was published in October 2023](https://www.ofcom.org.uk/__data/assets/pdf_file/0027/269127/Cloud-services-market-study-final-report.pdf), and determined that: 
+
+> "there are features of the market that act as barriers to multi-cloud and switching and we have reasonable grounds to suspect that these features prevent, restrict, or distort competition in the UK, and that they merit further detailed assessment by way of a market investigation reference (MIR)."
+
+Ofcom was most concerned about the following features:
+
+> - "Egress fees are the charges that customers pay to transfer their data out of a cloud. The cost of transferring data between rival providers can discourage customers from using more than one cloud provider and in some cases make switching more costly.
+> - Technical barriers mean that customers need to put additional effort into reconfiguring their data and applications to work on different clouds. A lack of interoperability and portability can restrict the ability of customers to switch and multi-cloud. 
+> - Committed spend discounts can benefit customers by reducing their costs, but the way these discounts are structured can incentivise customers to use a single cloud provider for all or most of their cloud needs. This can make it less attractive to use rival providers as part of a multi-cloud strategy."
+
+The [Cloud Services Market Research](https://www.ofcom.org.uk/__data/assets/pdf_file/0031/256459/context-consulting-cloud-services-market-research-summary-of-findings.pdf) that Ofcom commissioned through [Context+](https://welivecontext.com/) is a fascinating read. It's effectively a "state of the nation" when it comes to UK cloud services and it's a goldmine of information for anyone who wants to understand the sector.
+
+Key findings included that:
+
+- There is a widespread desire among firms to move towards cloud computing, with continued investment likely.
+- The cloud supplier landscape is led by the big 3, with many companies not looking at the smaller players.
+- Many companies struggle to accurately predict costs of cloud computing, and price increases at renewal can be steep.
+- Switching between PaaS/IaaS providers is relatively uncommon, but this is not perceived to be due to restrictions imposed 
+by suppliers.
+- Diverse views co-exist as to the degree of commercial choice and competitiveness in the cloud computing market."
+
+It then goes on to detail many items from the research including 
+
+- Usage of cloud computing services.
+- The supplier landscape.
+- Contracts and purchase process.
+- Service and supplier switching.
+- Customer attitudes to competition in the cloud market.
+
+As I read the research (and I'd recommend it to others too), some points that resonated with me were: 
+
+- > "Support levels were criticised by many respondents, especially among those in smaller firms."
+
+    That's something I've experienced too but the report also flagged that
+
+    > "AWS is also not especially communicative or helpful in terms of supporting customers."
+
+    I have no real experience with AWS, but it struck me how the hyperscalers are offering commodity services and support is a premium service.
+
+- > "Deceptively expensive: make it hard to manage costs, with opaque pricing and billing."
+
+    The billing/cost prediction issue seems real. Whilst there are tools and services that can  help with identifying optimisations after the fact, "bill shock" is a problem. Work can be done with policies and other governance approaches to control deployments and avoid spiraling costs.
+
+- > "Fear of de facto lock-in and inability to switch."
+
+    Egress costs are a big consideration and common across all major players (as the Ofcom investigation found). For PaaS, there's less commonality in the underlying platforms to move things around (which is why containers have become so helpful). Moving IaaS between providers should not be a significant challenge though.
+
+    This is drawn out in another finding:
+
+    > "Those who use both IaaS and PaaS are most likely to have switched. Those only using PaaS are less likely to have considered switching. Also, among barriers to switching are perceived effort, skills issues and dependency on ecosystems, with limited upside anticipated. Secondary barriers to switching are nonetheless significant; nearly all are internally driven rather than being 'created' by vendors."
+
+    So the market is not seen as the problem.
+
+- > "For many interviewed firms, existing investment in, and knowledge of, Microsoft environments makes using Azure a no-brainer."
+
+    If you can build a business around Microsoft cloud services, the future looks bright. So bright in fact that:
+    
+- > "Those purchasing cloud indirectly are largely highly satisfied by the benefits these intermediaries provide.
+  > - Without question, the experience of companies working with MSPs is positive.
+  > - They tend to be smaller, more responsive and ‘human’ than the hyperscalers.
+  > - Acting as a 'bridge', they are more readily available also.
+  > - Specific benefits identified included: 
+  >   - Deliver added value expertise, advice and consulting.
+  >   - Provide more responsive service and support.
+  >   - Can help end-customer to manage costs.
+  >   - Can have stronger culture fit with smaller firms.
+  >   - Help to deliver scarce, highly qualified resource.
+  >   - May provide niche, vertical sector knowledge.
+  >   - Can provide invaluable insight across cloud platforms."
+
+    As an employee of an MSP, this was heartening. Especially as we have our own cloud and hybrid offers!
+
 [Go home](README.md)
