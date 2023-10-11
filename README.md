@@ -1,5 +1,5 @@
 # ReadMe
-This is the start of this collection of thoughts. Tug on a thread from the contents below...
+This is the start of this collection of thoughts that may well become a book one day. Tug on a thread from the contents below...
 
 ## Contents
 1. [About tech-notes](tech-notes.md)
@@ -7,7 +7,10 @@ This is the start of this collection of thoughts. Tug on a thread from the conte
 3. [Business Transformation](business-tx.md)
 4. [Digital Transformation](digital-tx.md)
 5. [AI Transformation](ai-tx.md)
-6. [Other Stuff](uncategorised.md)
+6. [Sustainability Transformation](sustainability-tx.md)
+7. [Sector-specific Thoughts](by-sector.md)
+8. [Other Stuff](uncategorised.md)
+9. [Acknowledgements](acknowledgments.md)
 
 ## Contact
 I can be found in the following locations:
