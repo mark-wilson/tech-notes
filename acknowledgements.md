@@ -9,10 +9,8 @@ This chapter is an opportunity for me to thank those people. In no particular or
 - Alan Purchase, who supported me in my first management role, teaching me that whatever I find difficult today, I will laugh at when I look back in a few months.
 - Brian Cain, who had the unfortunate task of keeping my mind on track whilst working as an Architect at risual.
 - Andrew Hutchinson, Thom McKiernan, Bjoern Hirtenjohann, Andy Hodkinson, and the many Architects I worked with at risual whose discussions helped me cement some of the thoughts in these pages.
-{::comment}
 - Gregg Mearing, for recognising the potential that I could offer to his OCTO team at Node4.
 - Geoff Barlow and the rest of the Node4 OCTO team.
-{:/comment}
 - Matt Ballantine, Chris Weston, and the entire WB-40 Community for [the podcasts](https://wb40podcast.com/) and the many hours of discussion on our Signal group.
 
 And, of course, my wife, Nikki, for her constant support and tolerance of the frustrated technologist who was struggling to find his place in the world of IT. 
