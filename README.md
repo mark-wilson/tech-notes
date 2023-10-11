@@ -8,7 +8,7 @@ This is the start of this collection of thoughts that may well become a book one
 4. [Digital Transformation](digital-tx.md)
 5. [AI Transformation](ai-tx.md)
 6. [Sustainability Transformation](sustainability-tx.md)
-7. [Sector-specific Thoughts](by-sector.md)
+7. [Sector-specific thoughts](by-sector.md)
 8. [Other Stuff](uncategorised.md)
 9. [Acknowledgements](acknowledgments.md)
 
