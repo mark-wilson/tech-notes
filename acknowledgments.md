@@ -1,4 +1,4 @@
-# Acknowledgements
+# Acknowledgments
 Many of the notes contained in these pages have been pulled together based on conversations (online or in person). There's a huge list of people who have, whether knowingly or otherwise, helped me shape my views and opinions on IT Transformation. Some are attributed directly in the text. Others are not - maybe it was just a passing comment, or on a forum where we have an unwritten rule not to share information with attribution ([the Chatham House rule](https://www.chathamhouse.org/about-us/chatham-house-rule)).
 
 This chapter is an opportunity for me to thank those people. In no particular order:
