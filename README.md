@@ -3,13 +3,13 @@ This is the start of this collection of thoughts that may well become a book one
 
 ## Contents
 1. [About tech-notes](tech-notes.md)
-2. [Cloud Transformation](cloud-tx.md)
-3. [Business Transformation](business-tx.md)
-4. [Digital Transformation](digital-tx.md)
-5. [AI Transformation](ai-tx.md)
-6. [Sustainability Transformation](sustainability-tx.md)
+2. [Cloud transformation](cloud-tx.md)
+3. [Business transformation](business-tx.md)
+4. [Digital transformation](digital-tx.md)
+5. [AI transformation](ai-tx.md)
+6. [Sustainability transformation](sustainability-tx.md)
 7. [Sector-specific thoughts](by-sector.md)
-8. [Other Stuff](uncategorised.md)
+8. [Other stuff](uncategorised.md)
 9. [Acknowledgements](acknowledgments.md)
 
 ## Contact
