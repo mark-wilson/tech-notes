@@ -1,5 +1,5 @@
 # Sustainability Transformation
-* The following text was written by an AI and needs to be reviewed/edited *
+**The following text was written by an AI and needs to be reviewed/edited.**
 
 Sustainability transformation is a term that refers to the process of changing society and its systems in a way that supports the well-being of people and the planet, both now and in the future. It involves addressing the root causes of environmental and social problems, such as unsustainable consumption, inequality, and injustice, and creating new ways of living and working that are more harmonious with nature and human values. Sustainability transformation is not just a technical or economic challenge, but also a cultural, political, and ethical one. It requires a shift in mindsets, values, and behaviors, as well as in institutions, policies, and practices.
 
