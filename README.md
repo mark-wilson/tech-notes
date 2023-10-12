@@ -1,5 +1,5 @@
 # ReadMe
-This is the start of this collection of thoughts that may well become a book one day. Tug on a thread from the contents below...
+This is the start of this collection of thoughts. Tug on a thread from the contents below...
 
 ## Contents
 1. [About tech-notes](tech-notes.md)
