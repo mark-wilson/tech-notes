@@ -16,7 +16,7 @@ This chapter is an opportunity for me to thank those people. In no particular or
 
 And, of course, my wife, Nikki, for her constant support and tolerance of the frustrated technologist who was struggling to find his place in the world of IT. 
 
+[Go home](README.md)
+
 [1]: <https://www.chathamhouse.org/about-us/chatham-house-rule>
 [2]: <https://wb40podcast.com/>
-
-[Go home](README.md)
