@@ -106,4 +106,40 @@ As I read the research (and I'd recommend it to others too), some points that re
 
     As an employee of an MSP, this was heartening. Especially as we have our own cloud and hybrid offers!
 
+## Additional benefits of being in the cloud
+
+Technology moves quickly. And we're all used to keeping operating systems on current (or n-1) releases, with known support lifecycles and planned upgrades. We are, aren't we? And every business application, whether COTS or bespoke, has an owner, who maintains a roadmap and makes sure that it's not going to become the next item of technical debt. Surely?
+
+Unfortunately, these things are not always as common as they should be. A lot comes down to the perception of IT - is it a cost centre or does it add value to the business?
+
+### Software Assurance and Azure Hybrid Benefit
+
+Microsoft has a scheme for volume licensing customers called [Software Assurance](https://www.microsoft.com/en-gb/licensing/licensing-programs/software-assurance-getting-started). One of the benefits of this scheme is the ability to keep running on the latest versions of software. Other vendors have similar offers. But they all come at a cost.
+
+When planning a move to the cloud, Software Assurance is the key to unlocking other benefits too. [Azure Hybrid Benefit](https://azure.microsoft.com/en-gb/pricing/hybrid-benefit/) is a licensing offer for Windows Server and SQL Server that provides a degree of portability between cloud and on-premises environments. Effectively, the cloud costs are reduced because the on-prem licenses are released and allocated to new cloud resources.
+
+But what if you don't have Software Assurance? As a Windows  operating system comes to the end of its support lifecycle, how are you going to remain compliant when there are no longer any updates available?
+
+### Extended Security Updates (ESUs)
+
+That's where some organisations fall back onto [Extended Security Updates (ESUs)](https://www.microsoft.com/en-gb/windows-server/extended-security-updates). But it is a safety net - even Microsoft describes the ESU programme as: 
+
+> ["a last resort option for customers who need to run certain legacy Microsoft products past the end of support"](https://learn.microsoft.com/en-US/lifecycle/faq/extended-security-updates).
+
+In addition, the ESU scheme: 
+
+> "includes Critical and/or Important security updates for a maximum of three years after the product's End of Extended Support date. Extended Security Updates will be distributed if and when available.
+>
+> ESUs do not include new features, customer-requested non-security updates, or design change requests."
+
+They're just a way to maintain support whilst you make plans to get off that legacy operating system - which by now will be at least 10 years old.
+
+If your organisation is considering ESUs, The real questions to answer are what are their sticking points that are keeping you from moving away from the legacy operating system? For example:
+
+- Is it because there are applications that won't run on a later operating system? Maybe moving to Azure (or to a hybrid arrangement with Azure Arc) will provide some flexibility to benefit from ESUs at no extra cost whilst the app is modernised? (Windows Server and SQL Server ESUs are automatically delivered to Azure VMs if they’re configured to receive updates).
+- Is it a budget concern? In this case, ESUs are unlikely to be a cost-efficient approach. Maybe there's an alternative - again through cloud transformation, software financing, or perhaps a cloud-to-edge platform. 
+- Is it a cash-flow concern? Leasing may be an answer.
+
+There may be other reasons, but doing nothing and automatically accepting the risk is an option that a lot of companies choose...  the art (of consulting) is to help them to see that there are risks in doing nothing too.
+
 [Go home](README.md)
