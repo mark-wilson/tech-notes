@@ -1,11 +1,11 @@
 # Cloud Transformation
-Cloud transformation is about tools and technology. It’s often IT-led (though it should involve business stakeholders too) and so it’s the domain where us techies are most happy. Often, it involves creating new platforms, using cloud services – Azure, Amazon Web Services, Office 365, G-Suite, Dynamics 365, Salesforce. But cloud transformation is just an enabler. In order to deliver value, [business transformation](business-tx.md) is required.
+Cloud transformation is about tools and technology. It’s often IT-led (though it should involve business stakeholders too) and so it’s the domain where us techies are most happy. Often, it involves creating new platforms, using cloud services – Azure, Amazon Web Services, Office 365, G-Suite, Dynamics 365, Salesforce. But cloud transformation is just an enabler. In order to deliver value, [business transformation][1] is required.
 
 ## What do we mean by "Cloud"?
 In the early 2010s, everything was trying to be cloudy. If you ran a server in a datacentre and provided services to others (an application service provider), you probably said you were "on the cloud". These were the wild west days of cloud computing. A farm of virtual machines became "a private cloud", regardless of how they were managed and operated. 
 
 Thankfully, the United States National Institute of Standards and Technology (NIST) wrote a short paper, which should be required reading for anyone getting their head around cloud computing. [The NIST Definition of Cloud 
-Computing](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf) defines the concepts we all settled on:
+Computing][2] defines the concepts we all settled on:
 
 - The essential characteristics of cloud computing: on-demand self service; broad network access; resource pooling; rapid elasticity; and measured service.
 - The service models: infrastructure-; platform-; and software-as-a-service (IaaS, PaaS and SaaS).
@@ -14,10 +14,10 @@ Computing](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800
 ## Moving to cloud is not the same as cloud transformation
 A lot of my views on cloud is based on examples where organisations don't transform. Lift and shift is not cloud transformation. If you want to save money by moving to AWS or Azure, but without changing your working practices, you're in for a shock.
 
-A former colleague, Colin Hughes, and I used to tell our clients that you can either transform as part of the programme, or afterwards. The timing will depend on the motivations - if you have an impending deadline (for example for a datacentre exit), then the temptation is just to lift and shift. But you must have that second phase of funded activity - to transform the estate - otherwise you will be left with big bills and wondering if you did the right thing. In fact, there's a perfect case study in this: in October 2022, [David Heinemeier Hanson wrote about how his company, 37 Signals, was leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0). It seems to me, if they were renting servers for a decade. They never refactored the applications to take advantage of cloud native capablities.
+A former colleague, Colin Hughes, and I used to tell our clients that you can either transform as part of the programme, or afterwards. The timing will depend on the motivations - if you have an impending deadline (for example for a datacentre exit), then the temptation is just to lift and shift. But you must have that second phase of funded activity - to transform the estate - otherwise you will be left with big bills and wondering if you did the right thing. In fact, there's a perfect case study in this: in October 2022, [David Heinemeier Hanson wrote about how his company, 37 Signals, was leaving the cloud][3]. It seems to me, if they were renting servers for a decade. They never refactored the applications to take advantage of cloud native capablities.
 
 ## Does cloud have tangible benefits?
-I asked a question of two people I respect a lot in this industry - Chris Weston and Matt Ballantine - on their WB-40 podcast [episode 271](https://wb40podcast.com/2023/09/11/271-ask-wb-40/). The question was not entirely clear in the way it was posed and the answer is a bit of a ramble - I don't even agree with all of it - but it contains some interesting points:
+I asked a question of two people I respect a lot in this industry - Chris Weston and Matt Ballantine - on their WB-40 podcast [episode 271][4]. The question was not entirely clear in the way it was posed and the answer is a bit of a ramble - I don't even agree with all of it - but it contains some interesting points:
 
 > "Mark: I think that selling cloud transformation on cost savings alone is dangerous, because it often costs more. But what tangible benefits have you seen from organisations making the journey to the cloud, or is it all non-tangible things like burstability?
 > 
@@ -34,7 +34,7 @@ I asked a question of two people I respect a lot in this industry - Chris Weston
 > Matt: interestingly as well, one of the clients I’ve been working with recently - they work in the financial services industry - and they produce software for banks that need to be installed because of security into banks' data centres and it’s really interesting how the skill of developing software to be distributed for installation into a behind firewall data centre is an extremely rare skill - these days people don’t know how to do it anymore. They know how to build a build for cloud, they know how to build a build for app stores. They maybe know how to be able to build to be able to distribute in containerised cloud things which can be implemented into private clouds for the idea of what was the exe installer for server software. There's very few people who know how to do that anymore because nobody does it anymore and that’s been a really interesting revelation for me at just quite how much things have moved on."
 
 ## Competition in cloud services
-In 2022, the UK's communications regulator, Ofcom, stated its intention to carry out a [market study into the supply of cloud services in the UK](https://www.ofcom.org.uk/consultations-and-statements/category-2/cloud-services-market-study) to explore if these markets are working well and whether any regulatory action is required. [The final report was published in October 2023](https://www.ofcom.org.uk/__data/assets/pdf_file/0027/269127/Cloud-services-market-study-final-report.pdf), and determined that: 
+In 2022, the UK's communications regulator, Ofcom, stated its intention to carry out a [market study into the supply of cloud services in the UK][5] to explore if these markets are working well and whether any regulatory action is required. [The final report was published in October 2023](https://www.ofcom.org.uk/__data/assets/pdf_file/0027/269127/Cloud-services-market-study-final-report.pdf), and determined that: 
 
 > "there are features of the market that act as barriers to multi-cloud and switching and we have reasonable grounds to suspect that these features prevent, restrict, or distort competition in the UK, and that they merit further detailed assessment by way of a market investigation reference (MIR)."
 
@@ -44,7 +44,7 @@ Ofcom was most concerned about the following features:
 > - Technical barriers mean that customers need to put additional effort into reconfiguring their data and applications to work on different clouds. A lack of interoperability and portability can restrict the ability of customers to switch and multi-cloud. 
 > - Committed spend discounts can benefit customers by reducing their costs, but the way these discounts are structured can incentivise customers to use a single cloud provider for all or most of their cloud needs. This can make it less attractive to use rival providers as part of a multi-cloud strategy."
 
-The [Cloud Services Market Research](https://www.ofcom.org.uk/__data/assets/pdf_file/0031/256459/context-consulting-cloud-services-market-research-summary-of-findings.pdf) that Ofcom commissioned through [Context+](https://welivecontext.com/) is a fascinating read. It's effectively a "state of the nation" when it comes to UK cloud services and it's a goldmine of information for anyone who wants to understand the sector.
+The [Cloud Services Market Research][6] that Ofcom commissioned through [Context+][7] is a fascinating read. It's effectively a "state of the nation" when it comes to UK cloud services and it's a goldmine of information for anyone who wants to understand the sector.
 
 Key findings included that:
 
@@ -114,17 +114,17 @@ Unfortunately, these things are not always as common as they should be. A lot co
 
 ### Software Assurance and Azure Hybrid Benefit
 
-Microsoft has a scheme for volume licensing customers called [Software Assurance](https://www.microsoft.com/en-gb/licensing/licensing-programs/software-assurance-getting-started). One of the benefits of this scheme is the ability to keep running on the latest versions of software. Other vendors have similar offers. But they all come at a cost.
+Microsoft has a scheme for volume licensing customers called [Software Assurance][8]. One of the benefits of this scheme is the ability to keep running on the latest versions of software. Other vendors have similar offers. But they all come at a cost.
 
-When planning a move to the cloud, Software Assurance is the key to unlocking other benefits too. [Azure Hybrid Benefit](https://azure.microsoft.com/en-gb/pricing/hybrid-benefit/) is a licensing offer for Windows Server and SQL Server that provides a degree of portability between cloud and on-premises environments. Effectively, the cloud costs are reduced because the on-prem licenses are released and allocated to new cloud resources.
+When planning a move to the cloud, Software Assurance is the key to unlocking other benefits too. [Azure Hybrid Benefit][9] is a licensing offer for Windows Server and SQL Server that provides a degree of portability between cloud and on-premises environments. Effectively, the cloud costs are reduced because the on-prem licenses are released and allocated to new cloud resources.
 
 But what if you don't have Software Assurance? As a Windows  operating system comes to the end of its support lifecycle, how are you going to remain compliant when there are no longer any updates available?
 
 ### Extended Security Updates (ESUs)
 
-That's where some organisations fall back onto [Extended Security Updates (ESUs)](https://www.microsoft.com/en-gb/windows-server/extended-security-updates). But it is a safety net - even Microsoft describes the ESU programme as: 
+That's where some organisations fall back onto [Extended Security Updates (ESUs)][10]. But it is a safety net - even Microsoft describes the ESU programme as: 
 
-> ["a last resort option for customers who need to run certain legacy Microsoft products past the end of support"](https://learn.microsoft.com/en-US/lifecycle/faq/extended-security-updates).
+> ["a last resort option for customers who need to run certain legacy Microsoft products past the end of support"][11].
 
 In addition, the ESU scheme: 
 
@@ -136,10 +136,23 @@ They're just a way to maintain support whilst you make plans to get off that leg
 
 If your organisation is considering ESUs, The real questions to answer are what are their sticking points that are keeping you from moving away from the legacy operating system? For example:
 
-- Is it because there are applications that won't run on a later operating system? Maybe moving to Azure (or to a hybrid arrangement with Azure Arc) will provide some flexibility to benefit from ESUs at no extra cost whilst the app is modernised? (Windows Server and SQL Server ESUs are automatically delivered to Azure VMs if they’re configured to receive updates).
+- Is it because there are applications that won't run on a later operating system? Maybe moving to Azure (or to a hybrid arrangement with [Azure Arc][12]) will provide some flexibility to benefit from ESUs at no extra cost whilst the app is modernised? (Windows Server and SQL Server ESUs are automatically delivered to Azure VMs if they’re configured to receive updates).
 - Is it a budget concern? In this case, ESUs are unlikely to be a cost-efficient approach. Maybe there's an alternative - again through cloud transformation, software financing, or perhaps a cloud-to-edge platform. 
 - Is it a cash-flow concern? Leasing may be an answer.
 
 There may be other reasons, but doing nothing and automatically accepting the risk is an option that a lot of companies choose...  the art (of consulting) is to help them to see that there are risks in doing nothing too.
 
 [Go home](README.md)
+
+[1]: <business-tx.md>
+[2]: <https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf)https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf>
+[3]: <https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0>
+[4]: <https://wb40podcast.com/2023/09/11/271-ask-wb-40/>
+[5]: <https://www.ofcom.org.uk/consultations-and-statements/category-2/cloud-services-market-study>
+[6]: <https://www.ofcom.org.uk/__data/assets/pdf_file/0031/256459/context-consulting-cloud-services-market-research-summary-of-findings.pdf>
+[7]: <https://welivecontext.com/>
+[8]: <https://www.microsoft.com/en-gb/licensing/licensing-programs/software-assurance-getting-started>
+[9]: <https://azure.microsoft.com/en-gb/pricing/hybrid-benefit/>
+[10]: <https://www.microsoft.com/en-gb/windows-server/extended-security-updates>
+[11]: <https://learn.microsoft.com/en-US/lifecycle/faq/extended-security-updates>
+[12]: <https://azure.microsoft.com/en-gb/products/azure-arc/>
