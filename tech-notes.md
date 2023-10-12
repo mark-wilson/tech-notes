@@ -8,8 +8,8 @@ I also have thoughts about a book, but they have not quite come together yet. Al
 *Mark Wilson*  
 *Olney, England. September 2023*
 
+[Go home](README.md)
+
 [1]: <https://www.linkedin.com/in/markawilson/>
 [2]: <https://www.markdownguide.org/>
 [3]: <https://pages.github.com/>
-
-[Go home](README.md)
