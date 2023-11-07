@@ -3,6 +3,9 @@ For years, we've talked about "the [cloud][1]" and about [digital transformation
 
 This goes further than digital transformation and we are entering a new era of "AI transformation".
 
+"A digital and Al transformation is the process of developing organisational and technology-based capabilities that allows a company to improve continuously its customer experience, lower its costs, and, over time, sustain a competitive advantage." [Kevin Ingrey]
+
+
 ## Digital assistants
 
 ### ChatGPT
