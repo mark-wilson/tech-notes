@@ -40,6 +40,14 @@ And just like a house gets checked and adjusted during building, IT design needs
 
 _I like Ben's "big plans vs. detailed layouts" analogy. I always describe it as the HLD is the what we will do and the LLD is the how. I'd also add that all designs should be requirements-led - I've lost count of the number of times I've seen projects fail because someone got distracted by the shiny things and forgot the why we're doing this._
 
+_One of the last things I managed to do when I was working for a large SI was to get the HLD and LLD templates merged. Sounds like madness, right? Bear with me._
+
+_What I'd found was that the early sections of the HLD and LLD repeated each other - the same background, requirements, etc. That led to lots of context-switching to go back and edit the HLD as the LLD was developed._
+
+_By combining the documents into one design and having a part 1 and part 2 (each with their own sign-offs), we could keep everything in one document and only had to update the common content once._
+
+_What I really wanted to do (and wanted to do at my next company too but never found a way) was to get away from individual documents and to hold everything in one web-based system, which could auto-generate the documentation when required. I can dream..._
+
 ### Perception and Perspective (borrowed from Ben Curtis)
 It can be helpful to highlight the importance of perception and perspective, and their differences in the context of IT and Enterprise Architecture.
 
