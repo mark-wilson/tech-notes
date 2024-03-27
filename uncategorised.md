@@ -44,7 +44,7 @@ _One of the last things I managed to do when I was working for a large SI was to
 
 _What I'd found was that the early sections of the HLD and LLD repeated each other - the same background, requirements, etc. That led to lots of context-switching to go back and edit the HLD as the LLD was developed._
 
-_By combining the documents into one design and having a part 1 and part 2 (each with their own sign-offs), we could keep everything in one document and only had to update the common content once._
+_By combining the documents into one design and having a Section A and Section B (each with their own sign-offs), we could keep everything in one document and only had to update the common content once. The counter argument was that the HLD and LLD have different audiences. I guess you could just say "only read Section A" - just as we say "only read the Executive Summary"._
 
 _What I really wanted to do (and wanted to do at my next company too but never found a way) was to get away from individual documents and to hold everything in one web-based system, which could auto-generate the documentation when required. I can dream..._
 
