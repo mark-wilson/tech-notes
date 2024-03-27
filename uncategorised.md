@@ -24,7 +24,66 @@ Success is not just about achieving a number but more about how we can see:
 - Developing skill sets and working on a wider knowledge set to take to clients
 
 ## Architecture points
-### Functional and Non-Functional Requirements (Ben Curtis)
+
+### High and Low-Level Designs (borrowed from Ben Curtis)
+You'll often hear talk about high-level designs (HLDs) and low-level designs (LLDs) - but how are they different? Well, it comes down to Big Plans vs. Detailed Layouts
+
+Imagine designing and building a house. Like architects plan every aspect of a building, IT architects do the same for IT systems. They balance two kinds of designs: big-picture plans (HLD) and detailed layouts (LLD).
+
+High-level design is like drawing the big picture of a house. It sets the main structure and ideas for the IT system, similar to a sketch of a house's layout. Here, IT architects decide on things like how systems connect, what technologies to use, and how it all fits business goals like low-cost or availability.
+
+Low-level design zooms in on specifics, just like making detailed plans for each part of a house. It covers things like what materials to use, how wires connect, and what software settings are needed. IT architects dive into LLD to make sure every technical detail is clear and efficient.
+
+Balancing high-level and low-level design means blending the big ideas with the small details, much like mixing a house's style with its sturdy construction. While HLD gives the main plan and direction, LLD fills in the technical bits to make sure the IT system works well - now and in the future.
+
+And just like a house gets checked and adjusted during building, IT design needs to be flexible. IT architects may need to go back and tweak both HLD and LLD as technology changes and business needs shift. With this flexible approach, they can create IT systems that are solid and stand the test of time, just like a well-built house.
+
+_I like Ben's "big plans vs. detailed layouts" analogy. I always describe it as the HLD is the what we will do and the LLD is the how. I'd also add that all designs should be requirements-led - I've lost count of the number of times I've seen projects fail because someone got distracted by the shiny things and forgot the why we're doing this._
+
+### Perception and Perspective (borrowed from Ben Curtis)
+It can be helpful to highlight the importance of perception and perspective, and their differences in the context of IT and Enterprise Architecture.
+
+- Perception: What Meets the Eye. Imagine you're walking through a forest and come across a single tree. Your first impression of that tree—its size, shape, colour, and surroundings—is your perception. You can liken this to an impression of a single application in a client's environment.
+- Perspective: Seeing the Forest and the Trees. Now, let's say you climb to the top of a hill and look down at the entire forest. Suddenly, you see how all the trees are connected, how the sunlight filters through the leaves, and how animals move through the undergrowth. This bigger view—the perspective—gives you a deeper understanding of the forest as a whole. You can liken this to a complete view of a client's environment and how users, devices, applications and networks interact.
+
+You can now see why it's important that we have a similar perspective on how technology fits into the bigger picture of a business.
+
+Example:
+- Let's say a client wants to implement a new application to streamline their operations. From a technical perspective, the IT team might focus on the system's functionality and security. However, from a business perspective, stakeholders might be more concerned about the system's impact on productivity, cost savings, and customer satisfaction. By integrating these perspectives, Enterprise Architects can design a solution that meets both technical requirements and business needs.
+
+It's not just about having the right perspective; it's about communicating it effectively. Without clear communication of technical requirements and business needs to all stakeholders, the holistic view may remain obscured. In essence, if we don't share the broader forest view, stakeholders might continue to focus solely on individual trees.
+
+It's crucial to appreciate the forest as much as the trees. By integrating technical and business perspectives and communicating effectively, we can ensure that our solutions align seamlessly with overarching business goals.
+
+### MoSCoW (borrowed from Ben Curtis)
+We're not talking about Russia's capital city but rather we wanted to discuss one of the frameworks we use to make informed decisions in the world of IT and Enterprise Architecture: the MoSCoW method.
+
+Making decisions in IT is all about understanding the needs, prioritising effectively, and selecting the options that align with the business goals. It's a requirement to have some requirements!
+
+The MoSCoW Method, originating from the acronym for "Must-have, Should-have, Could-have, and Won't-have," is a powerful technique for requirements prioritisation. It helps us sift through the multitude of options and focus on what truly matters. Let's break down each category:
+
+- Must-have: These are essential elements critical for achieving goals. They form the backbone of the architecture and cannot be compromised.
+- Should-have: Important, but not crucial. They enhance functionality and effectiveness but can be deferred if necessary.
+- Could-have: Desirable features that are not essential. They offer opportunities for enhancement but can be sacrificed if resources are constrained.
+- Won't-have: Options deliberately excluded from consideration. They may not align with current objectives or may be unnecessary at the moment.
+
+Imagine you're planning a kitchen renovation. Your categories would look like this:
+
+- Must-have: Functional appliances and adequate storage space are essential for usability.
+- Should-have: Aesthetically pleasing design elements to enhance the overall look and feel.
+- Could-have: Smart home features for added convenience, if budget allows.
+- Won't-have: Luxury additions like a built-in wine fridge, which may exceed budget constraints, but could be added in the future.
+
+Now imagine you're tasked with selecting a cloud service provider and change your categories accordingly:
+
+- Must-have: High availability and reliability are essential for uninterrupted access to applications.
+- Should-have: Scalability to accommodate future growth without disruptions.
+- Could-have: Easy integration with existing tools for improved operational efficiency.
+- Won't-have: Advanced AI capabilities, which might not align with current strategic goals, and may be added in the future.
+
+The MoSCoW Method offers a systematic framework for prioritising options based on business objectives and requirements. It allows us as Architects to cut through the noise and consider what matters. (There are other frameworks and methods available, such as using a SWOT Analysis or a Weighted Decision Matrix.)
+
+### Functional and Non-Functional Requirements (borrowed from Ben Curtis)
 Have you ever wondered how products like cars, kitchen appliances, or even your favorite gadgets are designed to meet your needs? Well, it all starts with two important types of requirements: functional and non-functional. Let's explore them using examples that everyone can relate to.
 
 Functional requirements are like the basic functions or tasks a product needs to perform. They're the blueprint that outlines what the product should do.
