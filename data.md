@@ -9,6 +9,16 @@ It's long since been recognised that data comes in various forms - sructured and
 
 [Image showing the relationship between data and storytelling](data-storytelling.jpg)
 
-I don't know the source (a reverse image search turned up some posts on Reddit from 2021 and an earlier version of the graphic from 2015 without the storytelling part, but nothing conclusive). Regardless, I like the message. Data on its own is a pile of bits (literally, ones and zeros). We can organise those bits by attributes, in this case colour. We can arrange them to understand something about the data - for example how many bricks are there of each colour? And we can visualise that. But what does it actually mean? Only when we use a story to illustrate the value of the data does it really come to life!
+I don't know the source (a reverse image search turned up some posts on Reddit from 2021 and an earlier version of the graphic from 2015 without the storytelling part, but nothing conclusive). Regardless, I like the message. 
+
+Data on its own is a pile of bits (literally, ones and zeros). 
+
+We can organise those bits by attributes, in this case colour, to help us work more effectively with the data. 
+
+We can arrange them to understand something about the data - this is the analysis part - for example how many bricks are there of each colour? 
+
+And we can visualise the outcome from that analysis. 
+
+But what does it actually mean? Only when we use a story to illustrate the value of the data does it really come to life!
 
 [Go home](README.md)
