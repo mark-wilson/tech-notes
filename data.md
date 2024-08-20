@@ -17,8 +17,8 @@ We can organise those bits by attributes, in this case colour, to help us work m
 
 We can arrange them to understand something about the data - this is the analysis part - for example how many bricks are there of each colour? 
 
-And we can visualise the outcome from that analysis. 
+And we can visualise the outcome from that analysis. Graphs present a view on the data that helps us to understand what it means.
 
-But what does it actually mean? Only when we use a story to illustrate the value of the data does it really come to life!
+But what does it matter how many bricks we have of each colour, or shape, or whatever other attribute we use?  Only when we use a story to illustrate the value of the data does it really come to life!
 
 [Go home](README.md)
