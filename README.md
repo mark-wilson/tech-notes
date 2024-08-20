@@ -8,9 +8,10 @@ This is the start of this collection of thoughts. Tug on a thread from the conte
 4. [Digital transformation](digital-tx.md)
 5. [AI transformation](ai-tx.md)
 6. [Sustainability transformation](sustainability-tx.md)
-7. [Sector-specific thoughts](by-sector.md)
-8. [Other stuff](uncategorised.md)
-9. [Acknowledgements](acknowledgments.md)
+7. [It's all about data](data.md)
+8. [Sector-specific thoughts](by-sector.md)
+9. [Other stuff](uncategorised.md)
+10. [Acknowledgements](acknowledgments.md)
 
 ## Contact
 I can be found in the following locations:
