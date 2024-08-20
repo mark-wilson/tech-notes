@@ -7,7 +7,7 @@ Up until now, everything in this book has been about what we can do with technol
 
 It's long since been recognised that data comes in various forms - sructured and unstructured. And that there's a difference between data, information, knowledge and wisdom. People have built entire careers around "Knowledge Management". One data visualisation that I saw really struck home though...
 
-[Image showing the relationship between data and storytelling](data-storytelling.jpg)
+![Image showing the relationship between data and storytelling](data-storytelling.jpg)
 
 I don't know the source (a reverse image search turned up some posts on Reddit from 2021 and an earlier version of the graphic from 2015 without the storytelling part, but nothing conclusive). Regardless, I like the message. 
 
