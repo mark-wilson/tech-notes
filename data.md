@@ -5,7 +5,7 @@ Up until now, everything in this book has been about what we can do with technol
 * What's underpinning all of the artificial intelligence that some think is the next big opportunity? Data. Lots of it.
 * What's needed for us to make a difference in sustainability? Data.
 
-It's long since been recognised that data comes in various forms - sructured and unstructured. And that there's a difference between data, information, knowledge and wisdom. People have built entire careers around "Knowledge Management". One data visualisation that I saw really struck home though...
+It's long since been recognised that data comes in various forms - structured and unstructured. And that there's a difference between data, information, knowledge and wisdom. People have built entire careers around "Knowledge Management". One data visualisation that I saw really struck home though...
 
 ![Image showing the relationship between data and storytelling](data-storytelling.jpg)
 
