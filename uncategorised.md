@@ -4,7 +4,7 @@ This is the place for all the unfiled notes... the ones that didn't fit under th
 ## On new technologies
 (In the context of AI, but also more broadly)
 
-"There are two principal and immediate risks with any new technology: the first is to fetishise it and the second is to demonise it - and i think both are problematic. The issue for me is - and will always be -  where is it being used, by whom to what effect, and with what level of accountability?" \[[Professor Fraser Sampson, UK Commissioner for the Retention and Use of Biometric Material and Surveillance Camera Commissioner][1], [BBC Tech Life 19/9/23][2]\]
+"There are two principal and immediate risks with any new technology: the first is to fetishise it and the second is to demonise it - and I think both are problematic. The issue for me is - and will always be -  where is it being used, by whom to what effect, and with what level of accountability?" \[[Professor Fraser Sampson, UK Commissioner for the Retention and Use of Biometric Material and Surveillance Camera Commissioner][1], [BBC Tech Life 19/9/23][2]\]
 
 ## On selling products and services
 
